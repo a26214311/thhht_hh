@@ -23,13 +23,10 @@ public class r2 {
 
 	public static void main(String[] args) {
 		System.out.println("start:");
-		String path="Talks/";
 		try {
 			
 			
 			writehht();
-			
-
 			
 
 		} catch (Exception e) {
@@ -80,7 +77,6 @@ public class r2 {
 		System.arraycopy(mu, 0, r, 0, mu.length);
 		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("fw/4044.txt")));
 		String s;
-		String tex;
 		while ((s = br.readLine()) != null) {
 			if(s.indexOf("||||")<0&&s.length()>5){
 				String[] sa = s.trim().split(",");
@@ -97,14 +93,12 @@ public class r2 {
 					if(hh.equals(oh)){
 						
 					}else{
-						byte[] bh = hh.getBytes();
+						byte[] bh = hh.getBytes("gb2312");
 						System.out.println(bh.length+","+tm.length);
 						if(bh.length>tm.length){
 							System.out.println("exceed:"+hh+","+oh);
 						}else{
-							
 							System.arraycopy(bh, 0, tm, 0, bh.length);
-							pthex(tm);
 							System.arraycopy(tm, 0, r, st, len);
 						}
 					}
@@ -112,7 +106,7 @@ public class r2 {
 				}
 			}
 		}
-		
+		br.close();
 		return r;
 	}
 	
