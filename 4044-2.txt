@@ -1,0 +1,761 @@
+5751,18
+水面から出流る水底				||||				水面から出流る水底
+
+5771,28
+大洋の風情　〜 Fantastic Sea				||||				大洋の風情　〜 Fantastic Sea
+
+5803,16
+捕らぬ狸の壺算用				||||				捕らぬ狸の壺算用
+
+5823,16
+大きな水塊の眺望				||||				大きな水塊の眺望
+
+5843,16
+ナルコストリーム				||||				ナルコストリーム
+
+5863,31
+海燕の鳴動　譏 Natural Forecast				||||				海燕の鳴動　譏 Natural Forecast
+
+5895,22
+譏ｯ譏ｯ頭は天を仰ぎ見る				||||				譏ｯ譏ｯ頭は天を仰ぎ見る
+
+5919,31
+未開拓世界　〜 インナースペース				||||				未開拓世界　〜 インナースペース
+
+5951,18
+サブマリン幻視幻覚				||||				サブマリン幻視幻覚
+
+5971,39
+二百海里は宴もたけなわ　〜 Prayed Feast				||||				二百海里は宴もたけなわ　〜 Prayed Feast
+
+6011,28
+神造人魚は人間の夢を見るか？				||||				神造人魚は人間の夢を見るか？
+
+6043,8
+活命の泉				||||				活命の泉
+
+6055,30
+深海七花　〜 Forgotten Benefit				||||				深海七花　〜 Forgotten Benefit
+
+6087,18
+トリエステ号の足跡				||||				トリエステ号の足跡
+
+6107,20
+旅人アイザックの胡蝶				||||				旅人アイザックの胡蝶
+
+6131,10
+干き汐の頃				||||				干き汐の頃
+
+6143,27
+海乙女の詩　〜 Cobalt Dream				||||				海乙女の詩　〜 Cobalt Dream
+
+6171,5
+error				||||				error
+
+6179,28
+　タイトル画面のテーマです。				||||				　タイトル画面のテーマです。
+
+6211,20
+　１面のテーマです。				||||				　１面のテーマです。
+
+6235,32
+　須佐乃森　このはのテーマです。				||||				　須佐乃森　このはのテーマです。
+
+6271,20
+　２面のテーマです。				||||				　２面のテーマです。
+
+6295,26
+　渦島　鳴子のテーマです。				||||				　渦島　鳴子のテーマです。
+
+6323,20
+　３面のテーマです。				||||				　３面のテーマです。
+
+6347,30
+　水無月　つばめのテーマです。				||||				　水無月　つばめのテーマです。
+
+6379,20
+　４面のテーマです。				||||				　４面のテーマです。
+
+6403,26
+　深堂　香澄のテーマです。				||||				　深堂　香澄のテーマです。
+
+6431,20
+　５面のテーマです。				||||				　５面のテーマです。
+
+6455,26
+　八百比　恵のテーマです。				||||				　八百比　恵のテーマです。
+
+6483,20
+　６面のテーマです。				||||				　６面のテーマです。
+
+6507,28
+　八百比　海琴のテーマです。				||||				　八百比　海琴のテーマです。
+
+6539,34
+　エキストラステージのテーマです。				||||				　エキストラステージのテーマです。
+
+6575,37
+　観福宮　()70]-[!|v|£のテーマです。				||||				　観福宮　()70]-[!|v|£のテーマです。
+
+6615,28
+　エンディングのテーマです。				||||				　エンディングのテーマです。
+
+6647,30
+　スタッフロールのテーマです。				||||				　スタッフロールのテーマです。
+
+6679,5
+error				||||				error
+
+6687,5
+ Left				||||				 Left
+
+6695,5
+Right				||||				Right
+
+6703,5
+   Up				||||				   Up
+
+6711,5
+ Down				||||				 Down
+
+6719,5
+ Shot				||||				 Shot
+
+6727,5
+ Bomb				||||				 Bomb
+
+6735,5
+ Slow				||||				 Slow
+
+6743,5
+Pause				||||				Pause
+
+6751,5
+ Skip				||||				 Skip
+
+6759,5
+error				||||				error
+
+6767,6
+stage1				||||				stage1
+
+6775,6
+stage2				||||				stage2
+
+6783,6
+stage3				||||				stage3
+
+6791,6
+stage4				||||				stage4
+
+6799,6
+stage5				||||				stage5
+
+6807,6
+stage6				||||				stage6
+
+6815,5
+error				||||				error
+
+6823,15
+須佐乃森 このは				||||				須佐乃森 このは
+
+6839,9
+渦島 鳴子				||||				渦島 鳴子
+
+6851,9
+雨津 ミヨ				||||				雨津 ミヨ
+
+6863,13
+水無月 つばめ				||||				水無月 つばめ
+
+6879,9
+深堂 香澄				||||				深堂 香澄
+
+6891,9
+八百比 恵				||||				八百比 恵
+
+6903,11
+八百比 海琴				||||				八百比 海琴
+
+6915,20
+観福宮 ()70]-[!|v|£				||||				観福宮 ()70]-[!|v|£
+
+6939,5
+error				||||				error
+
+6947,39
+http://rgbxyz.org/th_kaikeidou/top.html				||||				http://rgbxyz.org/th_kaikeidou/top.html
+
+6987,12
+東方二次創作				||||				東方二次創作
+
+7003,10
+Game Start				||||				Game Start
+
+7015,11
+Extra Start				||||				Extra Start
+
+7027,15
+Omniverse Start				||||				Omniverse Start
+
+7043,9
+??? Start				||||				??? Start
+
+7055,14
+Practice Start				||||				Practice Start
+
+7071,10
+Music Room				||||				Music Room
+
+7083,10
+Key Config				||||				Key Config
+
+7095,6
+Option				||||				Option
+
+7103,4
+Quit				||||				Quit
+
+7111,5
+error				||||				error
+
+7119,11
+Rank Select				||||				Rank Select
+
+7131,12
+どこで泳ぐ？				||||				どこで泳ぐ？
+
+7147,13
+Player Select				||||				Player Select
+
+7163,12
+だれが泳ぐ？				||||				だれが泳ぐ？
+
+7179,13
+Weapon Select				||||				Weapon Select
+
+7195,16
+何を持っていく？				||||				何を持っていく？
+
+7215,12
+Stage Select				||||				Stage Select
+
+7231,16
+ステージはどれ？				||||				ステージはどれ？
+
+7251,12
+Enemy Select				||||				Enemy Select
+
+7267,16
+対戦相手はだれ？				||||				対戦相手はだれ？
+
+7287,6
+------				||||				------
+
+7295,9
+博丽 灵梦				||||				博麗 霊夢
+
+7307,30
+特技 被弹bomb允许时间长				||||				特技：喰らいボム有効時間が長い
+
+7339,24
+　　　氧元素点获得量增加				||||				　　　酸素点が増えやすい
+
+7367,12
+前方集中装备				||||				前方集中装備
+
+7383,40
+Shot:「Infrared Detector」				||||				ショット：「インフラレッドディテクター」
+
+7427,30
+Spellcard:赤符「赤外结界」				||||				スペルカード：赤符「赤外結界」
+
+7459,12
+自动瞄准装备				||||				自動照準装備
+
+7475,38
+Shot:「Homing Laser Sight」				||||				ショット：「ホーミングレーザーサイト」
+
+7515,30
+Spellcard:朱符「梦想妙朱」				||||				スペルカード：朱符「夢想妙朱」
+
+7547,12
+无限花序装备				||||				無限花序装備
+
+7563,34
+Shot:「Scarlet Flame」				||||				ショット：「スカーレットフレイム」
+
+7599,30
+Spellcard:绯符「阴阳绯玉」				||||				スペルカード：緋符「陰陽緋玉」
+
+7631,11
+雾雨 魔理沙				||||				霧雨 魔理沙
+
+7643,28
+特技 道具回收范围大				||||				特技：アイテム吸収範囲が広い
+
+7675,24
+     氢元素点获得量增加				||||				　　　水素点が増えやすい
+
+7703,12
+尾随配置装备				||||				追尾配置装備
+
+7719,38
+Shot:「Star Imprinting」				||||				ショット：「スターインプリンティング」
+
+7759,42
+Spellcard:青符「Sirius Movement」				||||				スペルカード：青符「シリウスムーヴメント」
+
+7803,12
+光速贯通装备				||||				光速貫通装備
+
+7819,40
+Shot:「Constellation Laser」				||||				ショット：「コンステレーションレーザー」
+
+7863,36
+Spellcard:蓝符「Blue Spark」				||||				スペルカード：藍符「ブルースパーク」
+
+7903,12
+方向调整装备				||||				方向回転装備
+
+7919,36
+Shot:「Sky Illumination」				||||				ショット：「スカイイルミネーション」
+
+7959,44
+Spellcard:苍符「Blue Sky Sunlight」				||||				スペルカード：蒼符「ブルースカイサンライト」
+
+8007,11
+东风谷 早苗				||||				東風谷 早苗
+
+8019,32
+特技:主炮射击威力高				||||				特技：メインショットの威力が高い
+
+8055,34
+     miss时回复power				||||				　　　ミス時にパワーを回復しやすい
+
+8091,12
+广域集中装备				||||				広狭二種装備
+
+8107,28
+Shot:「神奈子大人的神德」				||||				ショット：「神奈子様の神徳」
+
+8139,48
+Spellcard:绿符「Spring East Wind」				||||				スペルカード：緑符「スプリングイーストウィンド」
+
+8191,12
+超广范围装备				||||				超広範囲装備
+
+8207,30
+Shot:「诹访子大人的铁轮」				||||				ショット：「諏訪子様の鉄の輪」
+
+8239,32
+Spellcard:翠符「翡翠色之海」				||||				スペルカード：翠符「翡翠色の海」
+
+8275,12
+热核爆弹装备				||||				熱核爆弾装備
+
+8291,28
+ Shot:「Submarine Sun」				||||				ショット：「サブマリンサン」
+
+8323,40
+ Spellcard:碧符「Green Flash」 				||||				スペルカード：碧符「グリーンフラッシュ」
+
+8367,5
+error				||||				error
+
+8375,11
+Rank Select				||||				Rank Select
+
+8387,12
+どこで泳ぐ？				||||				どこで泳ぐ？
+
+8403,11
+Rank Select				||||				Rank Select
+
+8415,12
+どこで泳ぐ？				||||				どこで泳ぐ？
+
+8431,10
+Music Room				||||				Music Room
+
+8443,12
+五分前の音楽				||||				五分前の音楽
+
+8459,10
+No. %d  %s				||||				No. %d  %s
+
+8471,9
+No. %d %s				||||				No. %d %s
+
+8483,4
+♪%s				||||				♪%s
+
+8491,2
+%s				||||				%s
+
+8495,10
+Key Config				||||				Key Config
+
+8507,12
+パッドを入力				||||				パッドを入力
+
+8523,10
+Key Config				||||				Key Config
+
+8535,18
+変更する入力を選択				||||				変更する入力を選択
+
+8555,2
+%s				||||				%s
+
+8559,2
+%d				||||				%d
+
+8563,4
+Quit				||||				Quit
+
+8571,6
+Option				||||				Option
+
+8579,18
+左右移動キーで変更				||||				左右移動キーで変更
+
+8599,11
+ BGM Volume				||||				 BGM Volume
+
+8611,2
+%d				||||				%d
+
+8615,11
+  SE Volume				||||				  SE Volume
+
+8627,2
+%d				||||				%d
+
+8631,11
+  Matchless				||||				  Matchless
+
+8643,2
+ON				||||				ON
+
+8647,3
+OFF				||||				OFF
+
+8651,11
+ Background				||||				 Background
+
+8663,2
+ON				||||				ON
+
+8667,3
+OFF				||||				OFF
+
+8671,4
+Quit				||||				Quit
+
+8679,24
+dat/img/back/back000.jpg				||||				dat/img/back/back000.jpg
+
+8707,24
+dat/img/back/back001.png				||||				dat/img/back/back001.png
+
+8735,24
+dat/img/back/back002.png				||||				dat/img/back/back002.png
+
+8763,24
+dat/img/back/back100.wmv				||||				dat/img/back/back100.wmv
+
+8791,24
+dat/img/back/back110.jpg				||||				dat/img/back/back110.jpg
+
+8819,24
+dat/img/back/back111.png				||||				dat/img/back/back111.png
+
+8847,24
+dat/img/back/back112.png				||||				dat/img/back/back112.png
+
+8875,24
+dat/img/back/back210.jpg				||||				dat/img/back/back210.jpg
+
+8903,24
+dat/img/back/back211.png				||||				dat/img/back/back211.png
+
+8931,24
+dat/img/back/back200.wmv				||||				dat/img/back/back200.wmv
+
+8959,24
+dat/img/back/back201.wmv				||||				dat/img/back/back201.wmv
+
+8987,24
+dat/img/back/back201.wmv				||||				dat/img/back/back201.wmv
+
+9015,24
+dat/img/back/back300.wmv				||||				dat/img/back/back300.wmv
+
+9043,24
+dat/img/back/back310.jpg				||||				dat/img/back/back310.jpg
+
+9071,24
+dat/img/back/back311.png				||||				dat/img/back/back311.png
+
+9099,24
+dat/img/back/back400.jpg				||||				dat/img/back/back400.jpg
+
+9127,24
+dat/img/back/back410.jpg				||||				dat/img/back/back410.jpg
+
+9155,24
+dat/img/back/back411.jpg				||||				dat/img/back/back411.jpg
+
+9183,24
+dat/img/back/back500.jpg				||||				dat/img/back/back500.jpg
+
+9211,24
+dat/img/back/back501.jpg				||||				dat/img/back/back501.jpg
+
+9239,24
+dat/img/back/back502.jpg				||||				dat/img/back/back502.jpg
+
+9267,24
+dat/img/back/back500.jpg				||||				dat/img/back/back500.jpg
+
+9295,24
+dat/img/back/back501.jpg				||||				dat/img/back/back501.jpg
+
+9323,24
+dat/img/back/back502.jpg				||||				dat/img/back/back502.jpg
+
+9351,24
+dat/img/back/back503.jpg				||||				dat/img/back/back503.jpg
+
+9379,24
+dat/img/back/back510.jpg				||||				dat/img/back/back510.jpg
+
+9407,24
+dat/img/back/back002.png				||||				dat/img/back/back002.png
+
+9435,24
+dat/img/back/back520.bmp				||||				dat/img/back/back520.bmp
+
+9463,24
+dat/img/back/back600.png				||||				dat/img/back/back600.png
+
+9491,24
+dat/img/back/back601.png				||||				dat/img/back/back601.png
+
+9519,24
+dat/img/back/back002.png				||||				dat/img/back/back002.png
+
+9547,24
+dat/img/back/back520.bmp				||||				dat/img/back/back520.bmp
+
+9575,24
+dat/img/back/back610.jpg				||||				dat/img/back/back610.jpg
+
+9603,24
+dat/img/back/back510.jpg				||||				dat/img/back/back510.jpg
+
+9631,24
+dat/img/back/back410.jpg				||||				dat/img/back/back410.jpg
+
+9659,24
+dat/img/back/back411.jpg				||||				dat/img/back/back411.jpg
+
+9687,24
+dat/img/back/back700.png				||||				dat/img/back/back700.png
+
+9715,24
+dat/img/back/back700.png				||||				dat/img/back/back700.png
+
+9743,24
+dat/img/back/back610.jpg				||||				dat/img/back/back610.jpg
+
+9771,24
+dat/img/back/back710.png				||||				dat/img/back/back710.png
+
+9799,24
+dat/img/back/back712.png				||||				dat/img/back/back712.png
+
+9827,24
+dat/img/back/back711.png				||||				dat/img/back/back711.png
+
+9855,24
+dat/img/back/back002.png				||||				dat/img/back/back002.png
+
+9883,24
+dat/img/back/back520.bmp				||||				dat/img/back/back520.bmp
+
+9911,24
+dat/img/back/back701.bmp				||||				dat/img/back/back701.bmp
+
+9939,24
+dat/img/back/back110.jpg				||||				dat/img/back/back110.jpg
+
+9967,24
+dat/img/back/back111.png				||||				dat/img/back/back111.png
+
+9995,24
+dat/img/back/back112.png				||||				dat/img/back/back112.png
+
+10023,24
+dat/img/back/back210.jpg				||||				dat/img/back/back210.jpg
+
+10051,24
+dat/img/back/back211.png				||||				dat/img/back/back211.png
+
+10079,24
+dat/img/back/back310.jpg				||||				dat/img/back/back310.jpg
+
+10107,24
+dat/img/back/back311.png				||||				dat/img/back/back311.png
+
+10135,24
+dat/img/back/back410.jpg				||||				dat/img/back/back410.jpg
+
+10163,24
+dat/img/back/back411.jpg				||||				dat/img/back/back411.jpg
+
+10191,24
+dat/img/back/back510.jpg				||||				dat/img/back/back510.jpg
+
+10219,24
+dat/img/back/back002.png				||||				dat/img/back/back002.png
+
+10247,24
+dat/img/back/back520.bmp				||||				dat/img/back/back520.bmp
+
+10275,24
+dat/img/back/back610.jpg				||||				dat/img/back/back610.jpg
+
+10303,24
+dat/img/back/back710.png				||||				dat/img/back/back710.png
+
+10331,24
+dat/img/back/back712.png				||||				dat/img/back/back712.png
+
+10359,24
+dat/img/back/back711.png				||||				dat/img/back/back711.png
+
+10387,2
+%d				||||				%d
+
+10391,2
+%d				||||				%d
+
+10395,2
+%d				||||				%d
+
+10399,7
+History				||||				History
+
+10407,5
+%d/%d				||||				%d/%d
+
+10415,5
+Bonus				||||				Bonus
+
+10423,7
+Failed 				||||				Failed 
+
+10431,2
+%s				||||				%s
+
+10435,2
+%d				||||				%d
+
+10439,3
+99.				||||				99.
+
+10443,2
+99				||||				99
+
+10447,4
+0%d.				||||				0%d.
+
+10455,3
+%d.				||||				%d.
+
+10459,3
+0%d				||||				0%d
+
+10463,2
+%d				||||				%d
+
+10467,3
+00.				||||				00.
+
+10471,2
+00				||||				00
+
+10475,2
+%d				||||				%d
+
+10479,11
+Stage Clear				||||				Stage Clear
+
+10491,11
+Stage Clear				||||				Stage Clear
+
+10503,11
+CLEAR BONUS				||||				CLEAR BONUS
+
+10515,18
+%d%d%d%d%d%d%d%d%d				||||				%d%d%d%d%d%d%d%d%d
+
+10535,18
+%d%d%d%d%d%d%d%d%d				||||				%d%d%d%d%d%d%d%d%d
+
+10555,3
+%d.				||||				%d.
+
+10559,4
+%d%d				||||				%d%d
+
+10567,2
+%d				||||				%d
+
+10571,4
+EASY				||||				EASY
+
+10579,6
+NORMAL				||||				NORMAL
+
+10587,4
+HARD				||||				HARD
+
+10595,7
+LUNATIC				||||				LUNATIC
+
+10603,5
+EXTRA				||||				EXTRA
+
+10611,9
+OMNIVERSE				||||				OMNIVERSE
+
+10623,2
+%d				||||				%d
+
+10627,17
+Susanomori Konoha				||||				Susanomori Konoha
+
+10647,15
+Uzushima Naruko				||||				Uzushima Naruko
+
+10663,10
+Amazu Miyo				||||				Amazu Miyo
+
+10675,15
+Minazuki Tubame				||||				Minazuki Tubame
+
+10691,13
+Sindou Kasumi				||||				Sindou Kasumi
+
+10707,12
+Yaobi Megumi				||||				Yaobi Megumi
+
+10723,12
+Yaobi Mikoto				||||				Yaobi Mikoto
+
+10739,14
+Kanpukugu xxxx				||||				Kanpukugu xxxx
