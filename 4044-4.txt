@@ -23,7 +23,7 @@ w				||||				w
 config.txt				||||				config.txt
 
 36663,30
-東方海恵堂　〜 Marine Benefit.				||||				東方海恵堂　〜 Marine Benefit.
+东方海惠堂 ～ Marine Benefit.				||||				東方海恵堂　〜 Marine Benefit.
 
 36695,25
 dat/img/board/frame00.png				||||				dat/img/board/frame00.png
