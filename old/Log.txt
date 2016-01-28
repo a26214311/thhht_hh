@@ -1,0 +1,350 @@
+0:ƒVƒXƒeƒ€‚Ìî•ñ‚ğo—Í‚µ‚Ü‚·
+0:	‚c‚wƒ‰ƒCƒuƒ‰ƒŠ Ver3.09 
+0:	˜_—ƒvƒƒZƒbƒT‚Ì” : 4
+0:	‚n‚r  WindowsXP ( Build 2600 Service Pack 3 )
+101:	‚b‚o‚t“®ì‘¬“xF‘å‘Ì3.19GHz
+101:	‚l‚l‚w–½—ß‚ğg—p‚µ‚Ü‚·
+101:	‚r‚r‚d–½—ß‚ªg—p‰Â”\‚Å‚·
+101:	‚r‚r‚d‚Q–½—ß‚ªg—p‰Â”\‚Å‚·
+101:	‚b‚o‚tƒxƒ“ƒ_FGenuineIntel
+101:	‚b‚o‚t–¼F        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+101:‚b‚n‚l‚Ì‰Šú‰»... ¬Œ÷‚µ‚Ü‚µ‚½
+102:ƒƒ‚ƒŠ‘—Ê:7859.84MB  ‹ó‚«ƒƒ‚ƒŠ—Ìˆæ:4127.61MB 
+102:ƒ^ƒCƒ}[‚Ì¸“x‚ğŒŸ¸‚µ‚Ü‚·
+102:¸“xŒ‹‰Ê XV‰ñ” ƒ}ƒ‹ƒ`ƒƒfƒBƒAƒ^ƒCƒ}[F0  ƒpƒtƒH[ƒ}ƒ“ƒXƒJƒEƒ“ƒ^[F60
+102: ƒpƒtƒH[ƒ}ƒ“ƒXƒJƒEƒ“ƒ^[‚ğg—p‚µ‚Ü‚· ƒ^ƒCƒ}[¸“x : 10000.000000 KHz 
+102: ƒ\ƒtƒg‚Ì“ñd‹N“®ŒŸ¸... “ñd‹N“®‚Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½
+103:ƒEƒCƒ“ƒhƒEƒNƒ‰ƒX‚ğ“o˜^‚µ‚Ü‚·... “o˜^‚É¬Œ÷‚µ‚Ü‚µ‚½
+103:ƒEƒCƒ“ƒhƒEƒ‚[ƒh‹N“®—p‚ÌƒEƒCƒ“ƒhƒE‚ğì¬‚µ‚Ü‚·
+106:ƒEƒCƒ“ƒhƒE‚Ìì¬‚É¬Œ÷‚µ‚Ü‚µ‚½
+107:ƒEƒCƒ“ƒhƒE‚ğ•\¦‚µ‚Ü‚·
+108:‚h‚l‚d‚ğ–³Œø‚É‚µ‚Ü‚µ‚½
+109:ƒEƒCƒ“ƒhƒEƒXƒ^ƒCƒ‹‚ğƒEƒCƒ“ƒhƒEƒ‚[ƒh—p‚É•ÏX‚µ‚Ü‚·... Š®—¹
+133:DirectInputŠÖŒW‰Šú‰»ˆ—
+133:	DirectInput7 ‚Ìæ“¾’†... ¬Œ÷
+135:		ˆø‚«‘±‚«‰Šú‰»ˆ—... ‰Šú‰»¬Œ÷
+137:	ƒWƒ‡ƒCƒpƒbƒh‚Ì‰Šú‰»... 
+138:	ƒWƒ‡ƒCƒpƒbƒh‚Ì‰Šú‰»‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½
+138:	ƒ}ƒEƒXƒfƒoƒCƒX‚Ì‰Šú‰»... ‰Šú‰»¬Œ÷
+138:	ƒL[ƒ{[ƒhƒfƒoƒCƒX‚Ì‰Šú‰»... ‰Šú‰»¬Œ÷
+139:DirectInput ŠÖ˜A‚Ì‰Šú‰»‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½
+139:DirectSound ‚Ì‰Šú‰»‚ğs‚¢‚Ü‚·
+139:DirectSound ƒCƒ“ƒ^[ƒtƒF[ƒX‚Ìæ“¾‚ğs‚¢‚Ü‚·....  ¬Œ÷
+139:ˆø‚«‘±‚«ƒCƒ“ƒ^[ƒtƒF[ƒX‚Ì‰Šú‰»ˆ—...  ¬Œ÷
+180:	DirectSound ƒfƒoƒCƒX‚ğ—ñ‹“‚µ‚Ü‚·
+181:		ƒ‚ƒWƒ…[ƒ‹–¼:                 ƒhƒ‰ƒCƒo‹Lq:Primary Sound Driver 
+181:		ƒ‚ƒWƒ…[ƒ‹–¼:     winemm.vxd  ƒhƒ‰ƒCƒo‹Lq:Pulseaudio 
+181:	Å‘åƒTƒ“ƒvƒŠƒ“ƒOƒŒ[ƒg:200.00KHz Å¬ƒTƒ“ƒvƒŠƒ“ƒOƒŒ[ƒg:0.10KHz 
+181:	‘ƒTƒEƒ“ƒhƒƒ‚ƒŠ—Ìˆæ:0.00KB ‹ó‚«ƒTƒEƒ“ƒhƒƒ‚ƒŠ—Ìˆæ:0.00KB 
+
+182:	—˜—p‰Â”\ƒTƒ“ƒvƒŠƒ“ƒO¸“x
+182:	 ƒvƒ‰ƒCƒ}ƒŠ ‚P‚Ubit = OK  ‚Wbit = OK 
+182:	 ƒZƒJƒ“ƒ_ƒŠ ‚P‚Ubit = OK  ‚Wbit = OK 
+
+182:	—˜—p‰Â”\ƒ`ƒƒƒ“ƒlƒ‹
+182:	 ƒvƒ‰ƒCƒ}ƒŠ MONO = OK  STEREO = OK 
+182:	 ƒZƒJƒ“ƒ_ƒŠ MONO = OK  STEREO = OK 
+
+183:DirectSound ‚Ì‰Šú‰»‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½
+185:DirectDraw ƒIƒuƒWƒFƒNƒg‚Ìæ“¾‚ğs‚¢‚Ü‚·....  ¬Œ÷
+246:ˆø‚«‘±‚«‰Šú‰»ˆ—... ‰Šú‰»‚É¬Œ÷‚µ‚Ü‚µ‚½
+253:IDirect3D9Ex ƒIƒuƒWƒFƒNƒg‚ğæ“¾‚µ‚Ü‚·.... ¬Œ÷
+277:IDirect3DDevice9Ex ƒIƒuƒWƒFƒNƒg‚ğæ“¾‚µ‚Ü‚·.... ƒn[ƒhƒEƒGƒA’¸“_‰‰Z‚ğg—p‚µ‚Ü‚·
+348:¬Œ÷
+348:Driver:igxprd32.dll  Description:Intel(R) Ivybridge Desktop
+348:‰æ–Ê‚ÌƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_X8R8G8B8 ‚Å‚·
+348:‚yƒoƒbƒtƒ@‚ÌƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_D16 ‚Å‚·
+348:16bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_R5G6B5 ‚Å‚·
+349:32bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_X8R8G8B8 ‚Å‚·
+349:ƒAƒ‹ƒtƒ@•t‚« 16bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A4R4G4B4 ‚Å‚·
+349:ƒAƒ‹ƒtƒ@•t‚« 32bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A8R8G8B8 ‚Å‚·
+349:ƒAƒ‹ƒtƒ@ƒeƒXƒg—p 16bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A1R5G5B5 ‚Å‚·
+349:ƒAƒ‹ƒtƒ@ƒeƒXƒg—p 32bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A8R8G8B8 ‚Å‚·
+349:‚c‚w‚s‚PƒeƒNƒXƒ`ƒƒƒtƒH[ƒ}ƒbƒg‚ÍD3DFMT_DXT1 ‚Å‚·
+349:‚c‚w‚s‚QƒeƒNƒXƒ`ƒƒƒtƒH[ƒ}ƒbƒg‚Í D_D3DFMT_DXT2 ‚Å‚·
+349:‚c‚w‚s‚RƒeƒNƒXƒ`ƒƒƒtƒH[ƒ}ƒbƒg‚ÍD3DFMT_DXT3 ‚Å‚·
+349:‚c‚w‚s‚SƒeƒNƒXƒ`ƒƒƒtƒH[ƒ}ƒbƒg‚ÍD3DFMT_DXT4 ‚Å‚·
+349:‚c‚w‚s‚TƒeƒNƒXƒ`ƒƒƒtƒH[ƒ}ƒbƒg‚ÍD3DFMT_DXT5 ‚Å‚·
+349:•`‰æ—p 16bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_R5G6B5 ‚Å‚·
+350:•`‰æ—p 32bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_X8R8G8B8 ‚Å‚·
+350:•`‰æ—pƒAƒ‹ƒtƒ@•t‚« 32bit ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A8R8G8B8 ‚Å‚·
+350:•`‰æ—pABGR®”16ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A16B16G16R16 ‚Å‚·
+350:•`‰æ—pABGR•‚“®¬”“_16ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A16B16G16R16F ‚Å‚·
+350:•`‰æ—pABGR•‚“®¬”“_32ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A32B32G32R32F ‚Å‚·
+350:•`‰æ—p‚Pƒ`ƒƒƒ“ƒlƒ‹®”8ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A8R8G8B8 ‚Å‚·
+350:•`‰æ—p‚Pƒ`ƒƒƒ“ƒlƒ‹®”16ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_G16R16 ‚Å‚·
+350:•`‰æ—p‚Pƒ`ƒƒƒ“ƒlƒ‹•‚“®¬”“_16ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_R16F ‚Å‚·
+350:•`‰æ—p‚Pƒ`ƒƒƒ“ƒlƒ‹•‚“®¬”“_32ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_R32F ‚Å‚·
+350:•`‰æ—p‚Qƒ`ƒƒƒ“ƒlƒ‹®”8ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_A8B8G8R8 ‚Å‚·
+350:•`‰æ—p‚Qƒ`ƒƒƒ“ƒlƒ‹®”16ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_G16R16 ‚Å‚·
+350:•`‰æ—p‚Qƒ`ƒƒƒ“ƒlƒ‹•‚“®¬”“_16ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_G16R16F ‚Å‚·
+350:•`‰æ—p‚Qƒ`ƒƒƒ“ƒlƒ‹•‚“®¬”“_32ƒrƒbƒgŒ^ƒJƒ‰[ƒtƒH[ƒ}ƒbƒg‚Í D3DFMT_G32R32F ‚Å‚·
+350:ˆê“x‚É•`‰æ‚Å‚«‚éƒvƒŠƒ~ƒeƒBƒu‚ÌÅ‘å”:1048575
+351:‘Î‰‚µ‚Ä‚¢‚éÅ‘å’¸“_ƒCƒ“ƒfƒbƒNƒX:1048575
+351:“¯‚ÉƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚éƒoƒbƒtƒ@‚Ì”:4
+351:Å‘åƒeƒNƒXƒ`ƒƒƒTƒCƒY@•:8192 ‚‚³:8192
+351:ƒeƒNƒXƒ`ƒƒƒXƒe[ƒWƒeƒ“ƒ|ƒ‰ƒŠƒŒƒWƒXƒ^Fg—p‰Â
+351:Œ¸Z‡¬‚Ìƒn[ƒhƒEƒFƒA‘Î‰FƒlƒCƒeƒBƒu
+351:ƒn[ƒhƒEƒFƒA’¸“_ƒVƒF[ƒ_[ƒo[ƒWƒ‡ƒ“ƒR[ƒhF300
+351:ƒGƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“’¸“_ƒVƒF[ƒ_[ƒo[ƒWƒ‡ƒ“ƒR[ƒhFƒGƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“–³‚µ
+351:ƒsƒNƒZƒ‹ƒVƒF[ƒ_[ƒo[ƒWƒ‡ƒ“ƒR[ƒhF300
+355:ƒoƒbƒNƒoƒbƒtƒ@ƒƒbƒN“]‘—‚ÌŠÔ:35nsec  ˆê“I‚È•`‰æ‰Â”\ƒoƒbƒtƒ@‚ğg—p‚µ‚½“]‘—‚ÌŠÔ:249nsec
+355:ƒoƒbƒNƒoƒbƒtƒ@ƒƒbƒN‚ğg—p‚µ‚Ü‚·
+355:‚yƒoƒbƒtƒ@‚ğì¬‚µ‚Ü‚·.... ¬Œ÷
+360:ƒvƒƒOƒ‰ƒ}ƒuƒ‹ƒVƒF[ƒ_[‚ğg—p‚µ‚Ü‚·
+
+408:ƒtƒHƒ“ƒg‚Ì‰Šú‰»‚ğs‚¢‚Ü‚·
+409:ƒtƒHƒ“ƒg‚Ì‰Šú‰»‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½
+416:•¶šƒR[ƒhƒoƒbƒtƒ@‚Ì‰Šú‰»‚ğs‚¢‚Ü‚·... Š®—¹‚µ‚Ü‚µ‚½
+424:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/frame00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+426:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/frame01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+427:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/frame02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+428:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/frame03.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+430:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/atari.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+431:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/getSpell0.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+432:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/getSpell1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+434:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/talkBack.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+435:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/enemy.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+436:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/back/back610.jpg ‚ª‚ ‚è‚Ü‚¹‚ñ
+438:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/starLife.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+439:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/starBomb.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+440:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/lineO_Now.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+442:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/lineO_Max.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+443:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/lineH_Now.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+444:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/board/lineH_Max.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+446:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama0_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+447:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama0_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+448:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama1_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+450:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama1_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+451:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama1_2.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+452:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama2_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+454:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama2_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+455:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama3_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+457:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama3_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+458:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama4_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+459:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama4_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+461:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama5_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+462:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama9_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+463:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama9_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+465:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama10_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+466:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama10_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+467:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama11_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+469:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama11_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+470:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama12_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+471:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama12_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+473:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama16_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+474:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama16_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+475:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama17_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+477:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama17_1.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+478:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/tama/tama31_0.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+479:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/p0.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+480:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/p1.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+480:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/p2.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+482:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/main0.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+483:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/main1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+484:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/main2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+486:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+487:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot01.bmp ‚ª‚ ‚è‚Ü‚¹‚ñ
+489:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+490:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot10.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+491:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot11.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+493:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot12.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+494:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot22_1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+496:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/shot22_0.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+497:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/option00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+498:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/option01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+500:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/option02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+501:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/option10.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+502:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/option11.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+504:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/option12.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+505:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/option22.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+507:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+508:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+509:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+511:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb10.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+512:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb11.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+513:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb12.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+515:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb20.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+516:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/shot/bomb22.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+517:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+519:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+520:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+521:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q03.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+523:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q10.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+524:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q11.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+525:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q12.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+527:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q13.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+528:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q20.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+529:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q21.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+531:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q22.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+532:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q23.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+533:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q30.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+535:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q31.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+536:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q32.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+538:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q33.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+539:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q40.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+540:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q41.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+542:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q42.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+543:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q43.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+544:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q50.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+546:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q51.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+547:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q52.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+548:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/q53.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+549:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b0.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+550:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b1.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+551:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b2.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+551:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b3.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+552:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b4.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+553:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b5.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+553:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b6.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+554:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b7.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+555:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/b10.png ‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½
+556:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+558:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+559:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+560:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss10.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+562:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss11.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+563:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss12.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+564:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss13.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+566:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss20.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+567:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss30.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+568:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss31.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+570:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss32.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+571:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss33.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+572:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss40.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+574:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss41.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+575:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss42.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+577:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss43.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+578:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss44.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+579:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss50.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+580:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss51.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+582:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss52.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+583:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss53.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+584:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss54.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+586:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss60.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+587:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss61.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+588:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss62.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+590:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss63.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+591:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss70.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+592:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss71.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+594:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss72.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+595:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss73.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+596:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/boss74.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+598:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/red.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+599:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/blue.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+600:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/name0.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+602:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/name1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+603:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/name2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+604:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/name3.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+606:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/name4.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+607:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/name5.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+609:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/enemy/name6.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+610:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+611:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+613:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+614:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player03.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+615:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player04.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+617:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player05.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+618:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player06.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+620:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player07.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+621:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player10.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+622:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player11.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+624:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player12.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+625:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player13.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+626:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player14.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+628:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player15.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+629:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player16.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+630:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player17.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+632:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player20.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+633:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player21.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+634:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player22.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+636:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player23.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+637:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player24.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+638:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player25.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+640:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player26.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+641:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/char/player27.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+643:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+644:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+645:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+647:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item10.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+648:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item20.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+649:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item21.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+651:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item30.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+652:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/item/item31.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+653:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/reimu good 1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+655:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/reimu good 2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+656:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/reimu good 3.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+658:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/reimu bad 1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+659:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/reimu bad 2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+660:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/marisa good 1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+662:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/marisa good 2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+663:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/marisa good 3.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+664:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/marisa bad 1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+666:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/marisa bad 2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+667:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/sanae good 1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+668:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/sanae good 2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+670:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/sanae good 3.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+671:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/sanae bad 1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+672:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/ending/sanae bad 2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+674:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/title00.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+675:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/title01.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+676:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/title02.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+678:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/title03.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+679:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/title04.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+680:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/level0.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+682:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/level1.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+683:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/level2.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+684:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/level3.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+686:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/level4.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+687:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/menu/level5.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+687:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/ok.wav
+688:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/ok.wav
+688:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/back.wav
+688:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/back.wav
+689:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/select.wav
+689:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/select.wav
+690:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/pDeath.wav
+690:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/pDeath.wav
+690:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/graze.wav
+690:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/graze.wav
+691:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/powerUp.wav
+691:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/powerUp.wav
+692:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/oUp.wav
+692:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/oUp.wav
+692:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/hUp.wav
+692:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/hUp.wav
+693:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/awa00.wav
+693:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/awa00.wav
+694:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/qDeath.wav
+694:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/qDeath.wav
+694:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/qHit.wav
+694:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/qHit.wav
+695:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/tame.wav
+695:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/tame.wav
+696:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/bDeath.wav
+696:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/bDeath.wav
+697:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/qShot02.wav
+697:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/qShot02.wav
+697:‰E‹L‚Ìƒtƒ@ƒCƒ‹‚ÌƒI[ƒvƒ“‚É¸”s‚µ‚Ü‚µ‚½Fdat/se/maborosiKirikae.wav
+697:‰E‹L‚Ì‰¹ºƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½_1Fdat/se/maborosiKirikae.wav
+711:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/back/back000.jpg ‚ª‚ ‚è‚Ü‚¹‚ñ
+713:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/back/back001.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+714:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/back/back002.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+715:‰E‹L‚Ì‚v‚`‚uƒtƒ@ƒCƒ‹‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½Fbgm/bgm00.mp3 
+
+7256:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/back/back000.jpg ‚ª‚ ‚è‚Ü‚¹‚ñ
+7257:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/back/back001.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+7259:‰æ‘œƒtƒ@ƒCƒ‹ dat/img/back/back002.png ‚ª‚ ‚è‚Ü‚¹‚ñ
+8323:ƒtƒHƒ“ƒg‚Ì‰Šú‰»‚ğs‚¢‚Ü‚·
+8324:ƒtƒHƒ“ƒg‚Ì‰Šú‰»‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½
+8325:Direct3DDevice9 ‚Ì‰ğ•ú 2
+8348:Direct3D9 DLL ‚Ì‰ğ•ú 1
+8348:DirectInput ŠÖ˜A‚ÌI—¹æ˜¯... Š®—¹
+8363:DirectSound ‚ÌI—¹ˆ—‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½
+8363:ƒEƒCƒ“ƒhƒE‚ğ•Â‚¶‚æ‚¤‚Æ‚µ‚Ä‚¢‚Ü‚·
+8363:ƒEƒCƒ“ƒhƒE‚ª”jŠü‚³‚ê‚æ‚¤‚Æ‚µ‚Ä‚¢‚Ü‚·
+8363:ƒ\ƒtƒg‚ğI—¹‚·‚é€”õ‚ª®‚¢‚Ü‚µ‚½
+8402:
+8402:Alloc memory dump
+8402:	Total size:0(0.000kb)  Alloc num:0
+8402:

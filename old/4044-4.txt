@@ -1,0 +1,479 @@
+36583,6
+BGM %s				||||				BGM %s
+
+36591,13
+bgm/bgm00.mp3				||||				bgm/bgm00.mp3
+
+36607,15
+bgm/bgm%d%d.mp3				||||				bgm/bgm%d%d.mp3
+
+36623,1
+r				||||				r
+
+36627,10
+config.txt				||||				config.txt
+
+36639,5
+00100				||||				00100
+
+36647,1
+w				||||				w
+
+36651,10
+config.txt				||||				config.txt
+
+36663,30
+东方海惠堂 ～ Marine Benefit.				||||				東方海恵堂　〜 Marine Benefit.
+
+36695,25
+dat/img/board/frame00.png				||||				dat/img/board/frame00.png
+
+36723,25
+dat/img/board/frame01.png				||||				dat/img/board/frame01.png
+
+36751,25
+dat/img/board/frame02.png				||||				dat/img/board/frame02.png
+
+36779,25
+dat/img/board/frame03.png				||||				dat/img/board/frame03.png
+
+36807,22
+dat/img/char/atari.png				||||				dat/img/char/atari.png
+
+36831,27
+dat/img/board/getSpell0.png				||||				dat/img/board/getSpell0.png
+
+36859,27
+dat/img/board/getSpell1.png				||||				dat/img/board/getSpell1.png
+
+36887,26
+dat/img/board/talkBack.png				||||				dat/img/board/talkBack.png
+
+36915,23
+dat/img/enemy/enemy.png				||||				dat/img/enemy/enemy.png
+
+36939,24
+dat/img/back/back610.jpg				||||				dat/img/back/back610.jpg
+
+36967,26
+dat/img/board/starLife.png				||||				dat/img/board/starLife.png
+
+36995,26
+dat/img/board/starBomb.png				||||				dat/img/board/starBomb.png
+
+37023,27
+dat/img/board/lineO_Now.png				||||				dat/img/board/lineO_Now.png
+
+37051,27
+dat/img/board/lineO_Max.png				||||				dat/img/board/lineO_Max.png
+
+37079,27
+dat/img/board/lineH_Now.png				||||				dat/img/board/lineH_Now.png
+
+37107,27
+dat/img/board/lineH_Max.png				||||				dat/img/board/lineH_Max.png
+
+37135,24
+dat/img/tama/tama0_0.bmp				||||				dat/img/tama/tama0_0.bmp
+
+37163,24
+dat/img/tama/tama0_1.bmp				||||				dat/img/tama/tama0_1.bmp
+
+37191,24
+dat/img/tama/tama1_0.bmp				||||				dat/img/tama/tama1_0.bmp
+
+37219,24
+dat/img/tama/tama1_1.bmp				||||				dat/img/tama/tama1_1.bmp
+
+37247,24
+dat/img/tama/tama1_2.bmp				||||				dat/img/tama/tama1_2.bmp
+
+37275,24
+dat/img/tama/tama2_0.bmp				||||				dat/img/tama/tama2_0.bmp
+
+37303,24
+dat/img/tama/tama2_1.bmp				||||				dat/img/tama/tama2_1.bmp
+
+37331,24
+dat/img/tama/tama3_0.bmp				||||				dat/img/tama/tama3_0.bmp
+
+37359,24
+dat/img/tama/tama3_1.bmp				||||				dat/img/tama/tama3_1.bmp
+
+37387,24
+dat/img/tama/tama4_0.bmp				||||				dat/img/tama/tama4_0.bmp
+
+37415,24
+dat/img/tama/tama4_1.bmp				||||				dat/img/tama/tama4_1.bmp
+
+37443,24
+dat/img/tama/tama5_0.bmp				||||				dat/img/tama/tama5_0.bmp
+
+37471,24
+dat/img/tama/tama9_0.bmp				||||				dat/img/tama/tama9_0.bmp
+
+37499,24
+dat/img/tama/tama9_1.bmp				||||				dat/img/tama/tama9_1.bmp
+
+37527,25
+dat/img/tama/tama10_0.bmp				||||				dat/img/tama/tama10_0.bmp
+
+37555,25
+dat/img/tama/tama10_1.bmp				||||				dat/img/tama/tama10_1.bmp
+
+37583,25
+dat/img/tama/tama11_0.bmp				||||				dat/img/tama/tama11_0.bmp
+
+37611,25
+dat/img/tama/tama11_1.bmp				||||				dat/img/tama/tama11_1.bmp
+
+37639,25
+dat/img/tama/tama12_0.bmp				||||				dat/img/tama/tama12_0.bmp
+
+37667,25
+dat/img/tama/tama12_1.bmp				||||				dat/img/tama/tama12_1.bmp
+
+37695,25
+dat/img/tama/tama16_0.bmp				||||				dat/img/tama/tama16_0.bmp
+
+37723,25
+dat/img/tama/tama16_1.bmp				||||				dat/img/tama/tama16_1.bmp
+
+37751,25
+dat/img/tama/tama17_0.bmp				||||				dat/img/tama/tama17_0.bmp
+
+37779,25
+dat/img/tama/tama17_1.bmp				||||				dat/img/tama/tama17_1.bmp
+
+37807,25
+dat/img/tama/tama31_0.bmp				||||				dat/img/tama/tama31_0.bmp
+
+37835,19
+dat/img/char/p0.png				||||				dat/img/char/p0.png
+
+37855,19
+dat/img/char/p1.png				||||				dat/img/char/p1.png
+
+37875,19
+dat/img/char/p2.png				||||				dat/img/char/p2.png
+
+37895,22
+dat/img/shot/main0.png				||||				dat/img/shot/main0.png
+
+37919,22
+dat/img/shot/main1.png				||||				dat/img/shot/main1.png
+
+37943,22
+dat/img/shot/main2.png				||||				dat/img/shot/main2.png
+
+37967,23
+dat/img/shot/shot00.png				||||				dat/img/shot/shot00.png
+
+37991,23
+dat/img/shot/shot01.bmp				||||				dat/img/shot/shot01.bmp
+
+38015,23
+dat/img/shot/shot02.png				||||				dat/img/shot/shot02.png
+
+38039,23
+dat/img/shot/shot10.png				||||				dat/img/shot/shot10.png
+
+38063,23
+dat/img/shot/shot11.png				||||				dat/img/shot/shot11.png
+
+38087,23
+dat/img/shot/shot12.png				||||				dat/img/shot/shot12.png
+
+38111,25
+dat/img/shot/shot22_1.png				||||				dat/img/shot/shot22_1.png
+
+38139,25
+dat/img/shot/shot22_0.png				||||				dat/img/shot/shot22_0.png
+
+38167,25
+dat/img/shot/option00.png				||||				dat/img/shot/option00.png
+
+38195,25
+dat/img/shot/option01.png				||||				dat/img/shot/option01.png
+
+38223,25
+dat/img/shot/option02.png				||||				dat/img/shot/option02.png
+
+38251,25
+dat/img/shot/option10.png				||||				dat/img/shot/option10.png
+
+38279,25
+dat/img/shot/option11.png				||||				dat/img/shot/option11.png
+
+38307,25
+dat/img/shot/option12.png				||||				dat/img/shot/option12.png
+
+38335,25
+dat/img/shot/option22.png				||||				dat/img/shot/option22.png
+
+38363,23
+dat/img/shot/bomb00.png				||||				dat/img/shot/bomb00.png
+
+38387,23
+dat/img/shot/bomb01.png				||||				dat/img/shot/bomb01.png
+
+38411,23
+dat/img/shot/bomb02.png				||||				dat/img/shot/bomb02.png
+
+38435,23
+dat/img/shot/bomb10.png				||||				dat/img/shot/bomb10.png
+
+38459,23
+dat/img/shot/bomb11.png				||||				dat/img/shot/bomb11.png
+
+38483,23
+dat/img/shot/bomb12.png				||||				dat/img/shot/bomb12.png
+
+38507,23
+dat/img/shot/bomb20.png				||||				dat/img/shot/bomb20.png
+
+38531,23
+dat/img/shot/bomb22.png				||||				dat/img/shot/bomb22.png
+
+38555,23
+dat/img/enemy/q%d%d.png				||||				dat/img/enemy/q%d%d.png
+
+38579,20
+dat/img/enemy/b0.png				||||				dat/img/enemy/b0.png
+
+38603,20
+dat/img/enemy/b1.png				||||				dat/img/enemy/b1.png
+
+38627,20
+dat/img/enemy/b2.png				||||				dat/img/enemy/b2.png
+
+38651,20
+dat/img/enemy/b3.png				||||				dat/img/enemy/b3.png
+
+38675,20
+dat/img/enemy/b4.png				||||				dat/img/enemy/b4.png
+
+38699,20
+dat/img/enemy/b5.png				||||				dat/img/enemy/b5.png
+
+38723,20
+dat/img/enemy/b6.png				||||				dat/img/enemy/b6.png
+
+38747,20
+dat/img/enemy/b7.png				||||				dat/img/enemy/b7.png
+
+38771,21
+dat/img/enemy/b10.png				||||				dat/img/enemy/b10.png
+
+38795,26
+dat/img/enemy/boss%d%d.png				||||				dat/img/enemy/boss%d%d.png
+
+38823,21
+dat/img/enemy/red.png				||||				dat/img/enemy/red.png
+
+38847,22
+dat/img/enemy/blue.png				||||				dat/img/enemy/blue.png
+
+38871,24
+dat/img/enemy/name%d.png				||||				dat/img/enemy/name%d.png
+
+38899,27
+dat/img/char/player%d%d.png				||||				dat/img/char/player%d%d.png
+
+38927,23
+dat/img/item/item00.png				||||				dat/img/item/item00.png
+
+38951,23
+dat/img/item/item01.png				||||				dat/img/item/item01.png
+
+38975,23
+dat/img/item/item02.png				||||				dat/img/item/item02.png
+
+38999,23
+dat/img/item/item10.png				||||				dat/img/item/item10.png
+
+39023,23
+dat/img/item/item20.png				||||				dat/img/item/item20.png
+
+39047,23
+dat/img/item/item21.png				||||				dat/img/item/item21.png
+
+39071,23
+dat/img/item/item30.png				||||				dat/img/item/item30.png
+
+39095,23
+dat/img/item/item31.png				||||				dat/img/item/item31.png
+
+39119,31
+dat/img/ending/reimu good 1.png				||||				dat/img/ending/reimu good 1.png
+
+39151,31
+dat/img/ending/reimu good 2.png				||||				dat/img/ending/reimu good 2.png
+
+39183,31
+dat/img/ending/reimu good 3.png				||||				dat/img/ending/reimu good 3.png
+
+39215,30
+dat/img/ending/reimu bad 1.png				||||				dat/img/ending/reimu bad 1.png
+
+39247,30
+dat/img/ending/reimu bad 2.png				||||				dat/img/ending/reimu bad 2.png
+
+39279,32
+dat/img/ending/marisa good 1.png				||||				dat/img/ending/marisa good 1.png
+
+39315,32
+dat/img/ending/marisa good 2.png				||||				dat/img/ending/marisa good 2.png
+
+39351,32
+dat/img/ending/marisa good 3.png				||||				dat/img/ending/marisa good 3.png
+
+39387,31
+dat/img/ending/marisa bad 1.png				||||				dat/img/ending/marisa bad 1.png
+
+39419,31
+dat/img/ending/marisa bad 2.png				||||				dat/img/ending/marisa bad 2.png
+
+39451,31
+dat/img/ending/sanae good 1.png				||||				dat/img/ending/sanae good 1.png
+
+39483,31
+dat/img/ending/sanae good 2.png				||||				dat/img/ending/sanae good 2.png
+
+39515,31
+dat/img/ending/sanae good 3.png				||||				dat/img/ending/sanae good 3.png
+
+39547,30
+dat/img/ending/sanae bad 1.png				||||				dat/img/ending/sanae bad 1.png
+
+39579,30
+dat/img/ending/sanae bad 2.png				||||				dat/img/ending/sanae bad 2.png
+
+39611,24
+dat/img/menu/title00.png				||||				dat/img/menu/title00.png
+
+39639,24
+dat/img/menu/title01.png				||||				dat/img/menu/title01.png
+
+39667,24
+dat/img/menu/title02.png				||||				dat/img/menu/title02.png
+
+39695,24
+dat/img/menu/title03.png				||||				dat/img/menu/title03.png
+
+39723,24
+dat/img/menu/title04.png				||||				dat/img/menu/title04.png
+
+39751,23
+dat/img/menu/level0.png				||||				dat/img/menu/level0.png
+
+39775,23
+dat/img/menu/level1.png				||||				dat/img/menu/level1.png
+
+39799,23
+dat/img/menu/level2.png				||||				dat/img/menu/level2.png
+
+39823,23
+dat/img/menu/level3.png				||||				dat/img/menu/level3.png
+
+39847,23
+dat/img/menu/level4.png				||||				dat/img/menu/level4.png
+
+39871,23
+dat/img/menu/level5.png				||||				dat/img/menu/level5.png
+
+39895,13
+dat/se/ok.wav				||||				dat/se/ok.wav
+
+39911,15
+dat/se/back.wav				||||				dat/se/back.wav
+
+39927,17
+dat/se/select.wav				||||				dat/se/select.wav
+
+39947,17
+dat/se/pDeath.wav				||||				dat/se/pDeath.wav
+
+39967,16
+dat/se/graze.wav				||||				dat/se/graze.wav
+
+39987,18
+dat/se/powerUp.wav				||||				dat/se/powerUp.wav
+
+40007,14
+dat/se/oUp.wav				||||				dat/se/oUp.wav
+
+40023,14
+dat/se/hUp.wav				||||				dat/se/hUp.wav
+
+40039,16
+dat/se/awa00.wav				||||				dat/se/awa00.wav
+
+40059,17
+dat/se/qDeath.wav				||||				dat/se/qDeath.wav
+
+40079,15
+dat/se/qHit.wav				||||				dat/se/qHit.wav
+
+40095,15
+dat/se/tame.wav				||||				dat/se/tame.wav
+
+40111,17
+dat/se/bDeath.wav				||||				dat/se/bDeath.wav
+
+40131,18
+dat/se/qShot02.wav				||||				dat/se/qShot02.wav
+
+40151,26
+dat/se/maborosiKirikae.wav				||||				dat/se/maborosiKirikae.wav
+
+40179,6
+SimSun				||||				SimSun
+
+40187,9
+HGP行書体				||||				HGP行書体
+
+40199,10
+HG教科書体				||||				HG教科書体
+
+40211,9
+ＭＳ 明朝				||||				ＭＳ 明朝
+
+40223,13
+ＭＳ ゴシック				||||				ＭＳ ゴシック
+
+40239,13
+ＭＳ ゴシック				||||				ＭＳ ゴシック
+
+40255,6
+Impact				||||				Impact
+
+40263,6
+Impact				||||				Impact
+
+40271,9
+HGP行書体				||||				HGP行書体
+
+40283,10
+GungsuhChe				||||				GungsuhChe
+
+40295,10
+GungsuhChe				||||				GungsuhChe
+
+40307,13
+ＭＳ ゴシック				||||				ＭＳ ゴシック
+
+40323,11
+Courier New				||||				Courier New
+
+40335,13
+ＭＳ ゴシック				||||				ＭＳ ゴシック
+
+40351,13
+ＭＳ ゴシック				||||				ＭＳ ゴシック
+
+40367,10
+HG教科書体				||||				HG教科書体
+
+40379,6
+SimSun				||||				SimSun
